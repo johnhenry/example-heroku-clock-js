@@ -1,4 +1,4 @@
-#Heroku Clock Example in Javascript
+#Heroku Clock Example in JavaScript
 An example of a clock process for heroku in javascript for use with node.
 
 ##Testing Locally
