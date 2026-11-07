@@ -4,7 +4,7 @@ var threeSecondInterval = function(){
 }
 setInterval(threeSecondInterval, 3000)
 
-//For specific times, use a chron job
+//For specific times, use a cron job
 var fifteenSeconsAfterMinute = function() {
   console.log("Another minute is gone forever. Hopefully, you made the most of it...");
 }
